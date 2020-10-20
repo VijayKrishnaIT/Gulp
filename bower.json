@@ -1,0 +1,6 @@
+{
+    "name":"vijay",
+    "dependencies": {
+        "jquery":"latest"
+    }
+}
